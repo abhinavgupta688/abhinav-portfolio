@@ -1,0 +1,13 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Editor/IDE Configs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
